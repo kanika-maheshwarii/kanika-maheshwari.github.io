@@ -1,0 +1,67 @@
+#works{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.workTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+.workDesc{
+    font-weight: 300;
+    font-size: large;
+    max-width: 50rem;
+    padding: 0 2rem;
+}
+.workBars{
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+.workBar{
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50, 50);
+}
+.workBarImage{
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
+.workBarText>p {
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+@media screen and (max_width:585px) {
+    .work.workBarText>p {
+        font-size: 2vw;  
+    }
+}
+
+@media screen and (max_width:470px) {
+    .work.workBarText>p {
+        font-size: 3vw;  
+    }
+    .workBarImage{
+        height: 2.25rem;
+        width: 2.25rem;
+    }
+    .workBarText>h2 {
+        font-size: 5vw;
+
+    }
+}

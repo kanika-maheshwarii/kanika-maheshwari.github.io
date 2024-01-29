@@ -1,0 +1,41 @@
+#project{
+    min-height: calc(100vh - 0rem);
+    overflow: hidden;
+    width: 100vw;
+    max-width: 75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 1rem;
+
+}
+.projectTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 5rem;
+    margin-bottom: 1.5rem;
+}
+.projectDesc{
+    font-weight: 300;
+    font-size: large;
+    max-width: 50rem;
+    padding: 2 2rem;
+}
+.projectBars{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap:wrap;
+    width: 100vw;
+    max-width: 65rem;
+    /* max-height:fit-content; */
+}
+.projectBar{
+    object-fit:cover;
+    height: 16rem;
+    width: 29rem;
+    margin: 1.5rem;
+}
