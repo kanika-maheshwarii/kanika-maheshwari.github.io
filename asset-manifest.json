@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kanika-maheshwari/static/css/main.9ba32775.css",
+    "main.js": "/kanika-maheshwari/static/js/main.7e5247df.js",
+    "static/media/wastemanag.png": "/kanika-maheshwari/static/media/wastemanag.75abf8fc59561b35eda7.png",
+    "static/media/hr.png": "/kanika-maheshwari/static/media/hr.453f499dec2e2faf265c.png",
+    "static/media/Power-BI.png": "/kanika-maheshwari/static/media/Power-BI.09de96ea56f974c874da.png",
+    "static/media/primee.png": "/kanika-maheshwari/static/media/primee.b93dd223b69cb4f21b3c.png",
+    "static/media/netflix.png": "/kanika-maheshwari/static/media/netflix.ef5b4aee025caa2e3f2e.png",
+    "static/media/pngimg.com - mysql_PNG35.png": "/kanika-maheshwari/static/media/pngimg.com - mysql_PNG35.67646295cd91e7a3920e.png",
+    "static/media/k1.png": "/kanika-maheshwari/static/media/k1.74cf829625c193e2e60f.png",
+    "static/media/github.png": "/kanika-maheshwari/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/githubicon.png": "/kanika-maheshwari/static/media/githubicon.132cbab35e5faa86f9a6.png",
+    "static/media/linkedin.png": "/kanika-maheshwari/static/media/linkedin.ac00abfb003935f70ffc.png",
+    "static/media/python.png": "/kanika-maheshwari/static/media/python.c662b39dc833ec4540f6.png",
+    "static/media/ui-design.png": "/kanika-maheshwari/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/kanika-maheshwari/index.html",
+    "main.9ba32775.css.map": "/kanika-maheshwari/static/css/main.9ba32775.css.map",
+    "main.7e5247df.js.map": "/kanika-maheshwari/static/js/main.7e5247df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba32775.css",
+    "static/js/main.7e5247df.js"
+  ]
+}
